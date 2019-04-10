@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BSC Homework</string>
+    <string name="delete">Delete</string>
+    <string name="notes_not_found">Notes are empty.</string>
+    <string name="your_note">Your note</string>
+    <string name="warning">Warning</string>
+    <string name="really_want_delete_note">Do you really want to delete this note?</string>
+    <string name="no">No</string>
+
+    <string name="note_created_success">Note was successfully created.</string>
+    <string name="note_created_error">Could not create note.</string>
+    <string name="note_updated_success">Note was successfully updated.</string>
+    <string name="note_updated_error">Could not update note.</string>
+    <string name="note_delete_success">Note was successfully deletes.</string>
+    <string name="note_delete_error">Could not delete note.</string>
+
+    <string name="create_note">Create note</string>
+    <string name="update_note">Update note</string>
+
+    <string name="notes_download_error">Could not download notes.</string>
+</resources>
